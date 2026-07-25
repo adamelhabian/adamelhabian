@@ -1,43 +1,79 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋 I'm Adam</h1>
 
-###
+<p align="left">
+Software Engineering student at Mansoura University.<br>
+Passionate about building intelligent software by combining Software Engineering and Artificial Intelligence.<br>
+Currently learning Machine Learning, Computer Vision, Backend Development, and AI system integration.<br>
+Interested in designing scalable applications that solve real-world problems using AI.
+</p>
 
-<p align="left">I'm a Software Engineering student at Mansoura University.<br>Focused on Backend Development using Node.js & Express.<br>Currently exploring Cloud and DevOps fundamentals.<br>Interested in integrating AI into real-world systems.<br>Building scalable backend applications.</p>
+---
 
-###
+## About Me
 
-<h2 align="left">About me</h2>
+✨ Building software that becomes smarter with AI.
 
-###
+📚 Currently learning:
+- Software Engineering
+- Machine Learning & Deep Learning
+- Computer Vision
+- Backend Development
+- Data Structures & Algorithms
 
-<p align="left">✨ Creating bugs since I started coding in C/C++<br>📚 I’m currently learning Software Engineering & Computer Science fundamentals<br>🎯 Goals: Become a strong Software Engineer, build real-world apps, and go deeper into system design, infrastructure, and integrations<br>🎲 Fun fact: I got into software engineering because I like building software solutions that help people turn their ideas and businesses into real produ</p>
+🎯 Goal:
+Become an AI Software Engineer who builds production-ready AI applications, intelligent backend systems, and scalable software solutions.
 
-###
+💡 Interests:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Backend Engineering
+- AI APIs & Integrations
+- System Design
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
 </div>
 
-###
+---
+
+## Currently Working On
+
+- Learning Machine Learning from scratch
+- Building AI & Computer Vision projects
+- Developing backend applications with Node.js
+- Exploring AI integration into modern software systems
+- Improving software engineering and system design skills
