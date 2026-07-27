@@ -1,79 +1,92 @@
-<h1 align="left">Hi 👋 I'm Adam</h1>
+
+
+<h1 align="left">Hi, I'm Adam 👋</h1>
 
 <p align="left">
-Software Engineering student at Mansoura University.<br>
-Passionate about building intelligent software by combining Software Engineering and Artificial Intelligence.<br>
-Currently learning Machine Learning, Computer Vision, Backend Development, and AI system integration.<br>
-Interested in designing scalable applications that solve real-world problems using AI.
+Software Engineering student at Mansoura University, passionate about building intelligent software by combining Software Engineering with Artificial Intelligence, Machine Learning, and Data Science.
 </p>
 
 ---
 
 ## About Me
 
-✨ Building software that becomes smarter with AI.
-
-📚 Currently learning:
-- Software Engineering
-- Machine Learning & Deep Learning
-- Computer Vision
-- Backend Development
-- Data Structures & Algorithms
-
-🎯 Goal:
-Become an AI Software Engineer who builds production-ready AI applications, intelligent backend systems, and scalable software solutions.
-
-💡 Interests:
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Backend Engineering
-- AI APIs & Integrations
-- System Design
+- Software Engineering Student
+- Focused on AI, Machine Learning, and Data Science
+- Interested in Computer Vision and Intelligent Systems
+- Building end-to-end AI-powered applications
+- Continuously improving Software Engineering and System Design skills
 
 ---
 
 ## Tech Stack
 
-<div align="left">
+### Languages
 
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img width="12"/>
-
+<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
-
+<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img width="12"/>
-
+<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img width="12"/>
-
+<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-<img width="12"/>
+</p>
 
+### AI & Data
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="Scikit-learn"/>
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+</p>
+
+### Database
+
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img width="12"/>
+</p>
 
+### Tools
+
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="12"/>
-
+<img width="10"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-
-</div>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
 
 ---
 
-## Currently Working On
+## Currently Learning
 
-- Learning Machine Learning from scratch
-- Building AI & Computer Vision projects
-- Developing backend applications with Node.js
-- Exploring AI integration into modern software systems
-- Improving software engineering and system design skills
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Backend Development
+- System Design
+- Data Structures & Algorithms
+
+---
+
+## Goal
+
+To become an **AI Software Engineer** capable of designing and building scalable, production-ready software that integrates Artificial Intelligence into real-world applications.
